@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>دخول &rsaquo; Design owner &#8212; ووردبريس</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://olelasbs.github.io/wordpresstest/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-rtl-css'  href='/https://olelasbs.github.io/wordpresstest/wp-includes/css/buttons-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-rtl-css'  href='/https://olelasbs.github.io/wordpresstest/wp-admin/css/forms-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-rtl-css'  href='/https://olelasbs.github.io/wordpresstest/wp-admin/css/l10n-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-rtl-css'  href='/https://olelasbs.github.io/wordpresstest/wp-admin/css/login-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/olelasbs.github.io/wordpresstest/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-rtl-css'  href='http://localhost/https:/olelasbs.github.io/wordpresstest/wp-includes/css/buttons-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-rtl-css'  href='http://localhost/https:/olelasbs.github.io/wordpresstest/wp-admin/css/forms-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-rtl-css'  href='http://localhost/https:/olelasbs.github.io/wordpresstest/wp-admin/css/l10n-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-rtl-css'  href='http://localhost/https:/olelasbs.github.io/wordpresstest/wp-admin/css/login-rtl.min.css?ver=5.2.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="http://ar.wordpress.org/">يعمل بواسطة برنامج ووردبريس</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://olelasbs.github.io/wordpresstest/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://localhost/https:/olelasbs.github.io/wordpresstest/wp-login.php" method="post">
 	<p>
 		<label for="user_login">اسم المستخدم أو البريد الإلكتروني<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://olelasbs.github.io/wordpresstest/wp-login.php?action=lostpassword">هل فقدت كلمة مرورك؟</a>
+					<a href="http://localhost/https:/olelasbs.github.io/wordpresstest/wp-login.php?action=lostpassword">هل فقدت كلمة مرورك؟</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://olelasbs.github.io/wordpresstest/">
+			<p id="backtoblog"><a href="http://localhost/https:/olelasbs.github.io/wordpresstest/">
 		&rarr; العودة إلى Design owner	</a></p>
 			
 	</div>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	التعليقات على: أهلاً بالعالم !	</title>
-	<atom:link href="/https://olelasbs.github.io/wordpresstest/2019/08/07/%D8%A3%D9%87%D9%84%D8%A7-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://olelasbs.github.io/wordpresstest/2019/08/07/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
+	<atom:link href="https://olelasbs.github.io/wordpresstest/2019/08/07/%D8%A3%D9%87%D9%84%D8%A7-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/feed/" rel="self" type="application/rss+xml" />
+	<link>https://olelasbs.github.io/wordpresstest/2019/08/07/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
 	<description>موقع ووردبريس عربي آخر</description>
 	<lastBuildDate>Wed, 07 Aug 2019 06:05:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,10 +20,10 @@
 			<item>
 				<title>
 				بواسطة: مُعلِق ووردبريس				</title>
-				<link>/https://olelasbs.github.io/wordpresstest/2019/08/07/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#comment-1</link>
+				<link>https://olelasbs.github.io/wordpresstest/2019/08/07/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#comment-1</link>
 		<dc:creator><![CDATA[مُعلِق ووردبريس]]></dc:creator>
 		<pubDate>Wed, 07 Aug 2019 06:05:09 +0000</pubDate>
-		<guid isPermaLink="false">/https://olelasbs.github.io/wordpresstest/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://olelasbs.github.io/wordpresstest/?p=1#comment-1</guid>
 					<description><![CDATA[مرحبًا، هذا تعليق.
 للبدء بالإشراف، التحرير، وحذف التعليقات، من فضلك قم بزيارة شاشة التعليقات في لوحة التحكم.
 صورة المُعلق تأتي من &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
